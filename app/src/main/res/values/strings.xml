@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListaTarefas</string>
+    <string name="lbl_btn_add">Adicionar</string>
+    <string name="lbl_task_id">ID:</string>
+    <string name="lbl_task_desc">Descrição:</string>
+</resources>
